@@ -1,0 +1,1 @@
+/Users/ilya_rozhnev/scop/target/debug/scop: /Users/ilya_rozhnev/scop/build.rs /Users/ilya_rozhnev/scop/src/main.rs /Users/ilya_rozhnev/scop/src/mlx/c_mlx.rs /Users/ilya_rozhnev/scop/src/mlx/mod.rs /Users/ilya_rozhnev/scop/src/render/mod.rs

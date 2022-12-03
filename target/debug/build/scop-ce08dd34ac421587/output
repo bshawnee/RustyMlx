@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/Users/ilya_rozhnev/scop/src/minilibx/
+cargo:rustc-link-lib=static=mlx
