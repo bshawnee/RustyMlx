@@ -1,0 +1,2 @@
+# RustyMlx
+Binding for rust
